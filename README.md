@@ -1,4 +1,3 @@
 # trolled-live
-code for www.trolled.live
-## pls dont reuse for website without crediting me
+code that was used on www.trolled.live
 
